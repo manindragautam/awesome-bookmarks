@@ -10,6 +10,10 @@
 
 - [PostgreSQL Tutorial](https://www.postgresqltutorial.com/)
 
+**Go**
+
+- [Build Web App with Go](https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/)
+
 **Ruby Rails**
 
 - [Full Stack Ruby on Rails](https://www.theodinproject.com/paths/full-stack-ruby-on-rails)
@@ -19,6 +23,7 @@
 
 - [A Half hour to learn Rust](https://fasterthanli.me/articles/a-half-hour-to-learn-rust)
 - [Advent of Code](https://adventofcode.com/)
+- [Build Your Own Text Editor](https://viewsourcecode.org/snaptoken/kilo/)
 - [Build your own X](https://github.com/codecrafters-io/build-your-own-x)
 - [Comprehensive Rust 🦀](https://google.github.io/comprehensive-rust/)
 - [Exercism: Rust](https://exercism.org/tracks/rust)
@@ -27,3 +32,4 @@
 - [Rust Wasm Github](https://plippe.github.io/blog/2021/07/12/rust-wasm-github.html)
 - [Rustlings](https://rustlings.cool/)
 - [Rust Language Cheat Sheet](https://cheats.rs/)
+

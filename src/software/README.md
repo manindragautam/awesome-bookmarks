@@ -9,6 +9,7 @@
   - [Hungry Minds](https://www.hungryminds.dev/)
   - [SRE Weekly](https://sreweekly.com/)
   - [TLDR tech](https://tldr.tech/)
+  - [Mozilla Hacks](https://hacks.mozilla.org/)
 
 - **Rust**
 
